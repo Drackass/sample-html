@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap>
+    <loc>/sitemap/custom-xml-sitemap.xml</loc>
+    <lastmod>2024-11-29</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </sitemap>
+  <sitemap>
+    <loc>/sitemap/extra-urls-sitemap.xml</loc>
+    <lastmod>2024-11-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </sitemap>
+</sitemapindex>

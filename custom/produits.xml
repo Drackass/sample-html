@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+  <product>
+    <id>1</id>
+    <name>Smartphone XYZ</name>
+    <price currency="EUR">499.99</price>
+    <availability>in stock</availability>
+    <category>Electronics</category>
+    <description>High-end smartphone with 128GB storage.</description>
+  </product>
+  <product>
+    <id>2</id>
+    <name>Gaming Laptop ABC</name>
+    <price currency="EUR">1199.99</price>
+    <availability>out of stock</availability>
+    <category>Computers</category>
+    <description>Gaming laptop with RTX 3080 GPU.</description>
+  </product>
+</products>

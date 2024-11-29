@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<orders>
+  <order>
+    <id>1001</id>
+    <customer_id>501</customer_id>
+    <date>2024-11-20</date>
+    <total currency="EUR">499.99</total>
+    <status>shipped</status>
+  </order>
+  <order>
+    <id>1002</id>
+    <customer_id>502</customer_id>
+    <date>2024-11-21</date>
+    <total currency="EUR">1199.99</total>
+    <status>pending</status>
+  </order>
+</orders>

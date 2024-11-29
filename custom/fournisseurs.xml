@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suppliers>
+  <supplier>
+    <id>201</id>
+    <name>ElectroTech</name>
+    <contact_email>sales@electrotech.com</contact_email>
+    <phone>+33 1 23 45 67 89</phone>
+  </supplier>
+  <supplier>
+    <id>202</id>
+    <name>CompuDeals</name>
+    <contact_email>info@compudeals.com</contact_email>
+    <phone>+33 1 98 76 54 32</phone>
+  </supplier>
+</suppliers>

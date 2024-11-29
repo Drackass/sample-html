@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<categories>
+  <category>
+    <id>101</id>
+    <name>Electronics</name>
+    <description>All electronic devices and gadgets.</description>
+  </category>
+  <category>
+    <id>102</id>
+    <name>Computers</name>
+    <description>Laptops, desktops, and accessories.</description>
+  </category>
+</categories>

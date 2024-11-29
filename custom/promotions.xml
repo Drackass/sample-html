@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<promotions>
+  <promotion>
+    <id>301</id>
+    <title>Black Friday Sale</title>
+    <discount_percentage>20</discount_percentage>
+    <valid_from>2024-11-25</valid_from>
+    <valid_to>2024-11-30</valid_to>
+  </promotion>
+  <promotion>
+    <id>302</id>
+    <title>Holiday Deals</title>
+    <discount_percentage>15</discount_percentage>
+    <valid_from>2024-12-15</valid_from>
+    <valid_to>2024-12-31</valid_to>
+  </promotion>
+</promotions>
