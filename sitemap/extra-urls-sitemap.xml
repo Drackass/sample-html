@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>/contact</loc>
+    <loc>/sample-html/contact</loc>
     <lastmod>2024-11-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>/about</loc>
+    <loc>/sample-html/about</loc>
     <lastmod>2024-11-28</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>/faq</loc>
+    <loc>/sample-html/faq</loc>
     <lastmod>2024-11-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
