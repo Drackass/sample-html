@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <blogs>
   <blog>
-    <id>401</id>
-    <title>Top 5 Gadgets of 2024</title>
-    <author>Admin</author>
-    <date>2024-11-10</date>
-    <category>Technology</category>
-    <url>/sample-html/blog/top-5-gadgets-of-2024</url>
-  </blog>
-  <blog>
     <id>402</id>
     <title>How to Choose a Gaming Laptop</title>
     <author>TechGeek</author>
     <date>2024-11-15</date>
     <category>Guides</category>
     <url>/sample-html/blog/how-to-choose-gaming-laptop</url>
+  </blog>
+  <blog>
+    <id>403</id>
+    <title>Lorem Blog</title>
+    <author>Admin</author>
+    <date>2024-11-15</date>
+    <category>Guides</category>
+    <url>/sample-html/blog/lorem-blog</url>
   </blog>
 </blogs>
