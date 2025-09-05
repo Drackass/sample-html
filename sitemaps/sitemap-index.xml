@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap>
+    <loc>/pages/url0.html</loc>
+  </sitemap>
+  <sitemap>
+    <loc>/sitemaps/sitemap1.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>/sitemaps/sitemap2.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>/sitemaps/sitemap3.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>/sitemaps/sitemap4.xml</loc>
+  </sitemap>
+</sitemapindex>

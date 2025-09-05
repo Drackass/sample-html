@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed>
+  <item id="1">
+    <title>Custom Data 1</title>
+    <url>/pages/product-1.html</url>
+  </item>
+  <item id="2">
+    <title>Custom Data 2</title>
+    <url>/pages/blog-1.html</url>
+  </item>
+</feed>
